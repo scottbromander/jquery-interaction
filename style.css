@@ -1,0 +1,22 @@
+p {
+    color: blue;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+
+    padding: 10px;
+    margin: 10px;
+
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
