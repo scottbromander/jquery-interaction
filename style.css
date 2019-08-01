@@ -13,10 +13,20 @@ p {
     box-sizing: border-box;
 }
 
+.yellow {
+    background: yellow;
+}
+
 .green {
     background: green;
 }
 
 .blue {
     background: blue;
+}
+
+
+
+.red {
+    background: red;
 }
